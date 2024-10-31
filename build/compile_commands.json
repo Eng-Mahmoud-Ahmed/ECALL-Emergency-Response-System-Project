@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/mahmoud/Documents/02_Cmake_cpp/ECALL/build",
+  "command": "/usr/bin/c++  -I/home/mahmoud/Documents/02_Cmake_cpp/ECALL/includes -I/home/mahmoud/Documents/02_Cmake_cpp/ECALL/utils -g -o CMakeFiles/ecall_system.dir/src/main.cpp.o -c /home/mahmoud/Documents/02_Cmake_cpp/ECALL/src/main.cpp",
+  "file": "/home/mahmoud/Documents/02_Cmake_cpp/ECALL/src/main.cpp"
+}
+]

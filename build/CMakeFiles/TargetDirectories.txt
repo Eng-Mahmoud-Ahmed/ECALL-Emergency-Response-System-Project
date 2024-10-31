@@ -1,0 +1,3 @@
+/home/mahmoud/Documents/02_Cmake_cpp/ECALL/build/CMakeFiles/ecall_system.dir
+/home/mahmoud/Documents/02_Cmake_cpp/ECALL/build/CMakeFiles/edit_cache.dir
+/home/mahmoud/Documents/02_Cmake_cpp/ECALL/build/CMakeFiles/rebuild_cache.dir
