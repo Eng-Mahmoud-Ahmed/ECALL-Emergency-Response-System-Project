@@ -1,9 +1,7 @@
-/*
- *@Auther  : Mahmoud Ahmed.
+/**@Author  : Mahmoud Ahmed.
  *@Linkedin: www.linkedin.com/in/mahmoud-ahmed-b4a639202
  *@Date    : Oct 2024.
- *@Summary : These are Helper Functions that used by classes .   
-*/
+ *@Summary : These are Helper Functions that used by classes .   */
 
 
 
