@@ -52,6 +52,12 @@ The ECALL Emergency Response System is a C++ application that simulates accident
 - **Methods**:
   - `void HandleAccidentDetected()`: Detects an accident and triggers notifications and logging..
 
+### 9.Accident Detection Logic in Code
+For each vehicle, the detectAccident function checks these conditions:
+-    **Car**: return (m_acceleration < -9.8 && m_speed == 0);
+-   **Truck**: return (m_acceleration < -8.5 && m_speed == 0);
+    
+    
 ## Usage Instructions
 ### 1. Clone the Repository
 
