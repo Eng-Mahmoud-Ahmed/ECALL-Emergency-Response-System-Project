@@ -1,5 +1,5 @@
 /*
- *@Auther  : Mahmoud Ahmed.
+ *@Author  : Mahmoud Ahmed.
  *@Linkedin: www.linkedin.com/in/mahmoud-ahmed-b4a639202
  *@Date    : Oct 2024.
  *@Summary : Implement Emergency call class with dependecies.   
