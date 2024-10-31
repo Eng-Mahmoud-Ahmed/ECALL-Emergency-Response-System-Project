@@ -54,7 +54,8 @@ The ECALL Emergency Response System is a C++ application that simulates accident
 bash
 
 git clone https://github.com/Eng-Mahmoud-Ahmed/ECALL-Emergency-Response-System-Project.git
-cd your-repository
+
+
 
 2. Build the Project with CMake
 
