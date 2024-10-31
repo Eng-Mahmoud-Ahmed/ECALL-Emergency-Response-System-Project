@@ -3,6 +3,9 @@
 ## Project Overview
 The ECALL Emergency Response System is a C++ application that simulates accident detection for vehicles and notifies emergency services accordingly. Using an object-oriented approach, the project manages various types of vehicles, notification services, and logs accident data.
 
+## UML Diagram for the project classes and associations
+![uml](https://github.com/user-attachments/assets/906f2301-1a5f-460e-aa49-2f31fadc6720)
+
 ## File Structure
 - **ECALLSystem.hpp**: Defines the ECALL system and manages accident detection and notifications.
 - **logs.hpp**: Implements the logging functionality to record accident data.
@@ -50,35 +53,27 @@ The ECALL Emergency Response System is a C++ application that simulates accident
   - `void HandleAccidentDetected()`: Detects an accident and triggers notifications and logging..
 
 ## Usage Instructions
-1. Clone the Repository
-bash
+### 1. Clone the Repository
 
 git clone https://github.com/Eng-Mahmoud-Ahmed/ECALL-Emergency-Response-System-Project.git
 
 
-
-2. Build the Project with CMake
-
-bash
+### 2. Build the Project with CMake
 
 mkdir build
 cd build
 cmake ..
 make
 
-3. Run the Application
-
-bash
-
+### 3. Run the Application
 ./ecall_system
 
-4. Input Data
-
+### 4. Input Data
 When prompted, enter the vehicle speed, location, and acceleration for accident simulation.
-5. View Accident Logs
 
+### 5. View Accident Logs
 Accident logs are saved in the specified log file and can be accessed to view the complete history of events.
 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-Acknowledgments
+
+
