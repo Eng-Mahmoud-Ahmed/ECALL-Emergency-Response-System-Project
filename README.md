@@ -66,10 +66,10 @@ git clone https://github.com/Eng-Mahmoud-Ahmed/ECALL-Emergency-Response-System-P
 
 ### 2. Build the Project with CMake
 
-mkdir build
-cd build
-cmake ..
-make
+- mkdir build
+- cd build
+- cmake ..
+- make
 
 ### 3. Run the Application
 ./ecall_system
